@@ -1,3 +1,3 @@
 # Prueba 2
 
-Some text
+Texto de prueba
